@@ -1,0 +1,1 @@
+# Exponentially-Weighted-Moving-Average-or-Exponential-Weighted-Average-EWMA
